@@ -1,7 +1,7 @@
 {
-  "name": "metehan",
+  "name": "metostos",
   "website": "https://github.com/Cigilipap",
-  "description": "node runner",
-  "logo": "https://ibb.co/XW5RPHg",
+  "description": "node hunter2",
+  "logo": "https://resmim.net/cdn/2024/02/13/ZPGV9n.png",
   "twitter": "https://twitter.com/Gkhnhli"
 }
